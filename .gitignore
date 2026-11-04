@@ -1,0 +1,9 @@
+# Compiled programs
+*.exe
+
+# Temporary compiler files
+compile.log
+error.txt
+
+# VS Code settings
+.vscode/
